@@ -5,3 +5,8 @@ package de.fherfurt.prg34;
  */
 public class Character {
 }
+
+
+
+
+
